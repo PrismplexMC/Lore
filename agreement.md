@@ -1,6 +1,6 @@
 Prismplex Lore Submission Agreement\
 Effective as of July 18, 2025\
-By clicking “I AGREE,” you confirm that you have read, understood, and accepted the terms of this Lore Submission Agreement (“Agreement”) concerning any content you submit to The Prismplex server’s lore repository.
+By clicking “I AGREE” you confirm that you have read, understood, and accepted the terms of this Lore Submission Agreement (“Agreement”) concerning any content you submit to The Prismplex server’s lore repository.
 1. Scope of Agreement\
 This Agreement governs your voluntary submission of creative content such as stories, character profiles, artwork, and audiovisual materials (“Submitted Content”) to the lore repository associated with The Prismplex, a Minecraft server operated by individual owner(s) and managed with the assistance of staff members and a contributing player base. References to “The Prismplex” in this Agreement include the server’s owner(s), its staff, players, and any other party contributing to the collective lore repository.
 2. License Grant\
@@ -20,4 +20,4 @@ This Agreement shall be governed by the laws of the State of Connecticut, except
 9. Entire Agreement\
 This Agreement constitutes the complete and exclusive understanding between you and The Prismplex with respect to Submitted Content. It supersedes all prior discussions, representations, or agreements, whether oral or written, related to the subject matter. No additional terms outside of this document shall have binding legal effect.
 10. Acceptance\
-By clicking “I AGREE,” you represent that you are legally competent to enter into this Agreement and acknowledge that you are bound by all its terms and conditions.
+By clicking “I AGREE” you represent that you are legally competent to enter into this Agreement and acknowledge that you are bound by all its terms and conditions.
